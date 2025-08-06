@@ -1,8 +1,9 @@
 {
   "name": "beautiful-portfolio",
-  "private": true,
   "version": "0.0.0",
+  "description": "Vite powered static site",
   "type": "module",
+  "homepage": "https://nmintcheva.github.io/",
   "scripts": {
     "dev": "vite --host",
     "build": "vite build",
